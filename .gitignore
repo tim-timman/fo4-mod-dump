@@ -1,0 +1,7 @@
+## Everything in Data except the mods to dump
+Data/*
+!Data/flytest.esp
+!Data/MakeStatic.esp
+!Data/QuestDisplayText.esp
+!Data/SwaPA.esp
+!Data/SurvivalSave.esp
